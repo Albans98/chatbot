@@ -2,7 +2,7 @@ https://mosaic.ai/
 https://newton.ai/
 https://tech.woo.io/
 
-Chatbot JOB + JOKES :
+Chatbot JOB + JOKES : (Jokes à faire en dernier)
 
 1_ Stocker CV de la personne et lui afficher en JSON (mots clés).
 
