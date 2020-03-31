@@ -6,7 +6,7 @@
 - [📍 Introduction](#-introduction)
 - [👩‍💻 Just tell me what to do](#-Just-tell-me-what-to-do)
 - [📝 Some explanations](#-Some-explanations)
-- [🎓Developers](#-Developers)
+- [🎓Developers](#Developers)
 
 
 ## 📍 Introduction
