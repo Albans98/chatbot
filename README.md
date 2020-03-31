@@ -1,6 +1,6 @@
 # Groot JobSeeker ChatBot
  
-![groot](https://i.pinimg.com/originals/39/71/56/397156c47ac8ca9b8b4c8c52bca31ce2.jpg=300x)
+![groot](http://natureetzen.e-monsite.com/medias/images/bebe-groot-promo-nature-et-zen.jpg)
 
 
 - [📍 Introduction](#-introduction)
