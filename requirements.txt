@@ -1,0 +1,4 @@
+regex
+nltk
+requests
+discord
