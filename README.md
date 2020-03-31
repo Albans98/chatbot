@@ -1,6 +1,6 @@
 # Groot JobSeeker ChatBot
  
-![groot](https://i.pinimg.com/originals/39/71/56/397156c47ac8ca9b8b4c8c52bca31ce2.jpg =300x)
+![groot](https://i.pinimg.com/originals/39/71/56/397156c47ac8ca9b8b4c8c52bca31ce2.jpg=300x)
 
 
 - [📍 Introduction](#-introduction)
@@ -57,7 +57,7 @@ Location| Where do you want this Job ? 🌎
 Salary | How much do you want to earn for this Job ? 💰
 
 
-***Here is a simple example of our chatbot ::***
+***Here is a simple example of our chatbot :***
 
 ```mermaid
 graph TD; 
@@ -75,7 +75,7 @@ H{Start} --Greeting-->A
   G-->A
   G--Bye-->N{End}
   C--Thx-->M{End}
-  ```
+```
 
 At first, the speaker have the control of the conversation, then the bot takes control to ask the questions to fill the slot. But, at any time, it can br interrupted to tell a joke and get back on track if it hasn't finished all the slots yet.
 ***
