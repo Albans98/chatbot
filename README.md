@@ -4,7 +4,7 @@
 
 
 - [📍 Introduction](#-introduction)
-- [👩‍💻 Just tell me what to do](#%E2%80%8D-just-tell-me-what-to-do)
+- [👩‍💻 Just tell me what to do](#Just-tell-me-what-to-do)
 - [📝 Some explanations](#-Some-explanations)
 - [🎓Developers](#Developers)
 
